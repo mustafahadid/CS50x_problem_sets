@@ -1,0 +1,1 @@
+SELECT  COUNT(title) from movies join ratings on movies.title = ratings. rating where rating =10.0
